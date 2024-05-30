@@ -1,0 +1,120 @@
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.exe
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.deps.json
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.dll
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.pdb
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.Analizador.resources
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.dll
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.pdb
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\el de compi\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.exe
+C:\Users\Jonathan\Desktop\el de compi\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.deps.json
+C:\Users\Jonathan\Desktop\el de compi\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.runtimeconfig.json
+C:\Users\Jonathan\Desktop\el de compi\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\el de compi\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.dll
+C:\Users\Jonathan\Desktop\el de compi\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.pdb
+C:\Users\Jonathan\Desktop\el de compi\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\el de compi\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.Analizador.resources
+C:\Users\Jonathan\Desktop\el de compi\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\el de compi\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\el de compi\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\el de compi\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\el de compi\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.dll
+C:\Users\Jonathan\Desktop\el de compi\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.pdb
+C:\Users\Jonathan\Desktop\el de compi\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.exe
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.deps.json
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.dll
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.pdb
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.Analizador.resources
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.dll
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.pdb
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\cd\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.exe
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\cd\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.deps.json
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\cd\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\cd\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\cd\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.dll
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\cd\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.pdb
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\cd\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\cd\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.Analizador.resources
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\cd\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\cd\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\cd\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\cd\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\cd\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.dll
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\cd\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.pdb
+C:\Users\Jonathan\Desktop\Nueva carpeta (3)\cd\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.exe
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.deps.json
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.dll
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.pdb
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.Analizador.resources
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.dll
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.pdb
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\asd2\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.exe
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\asd2\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.deps.json
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\asd2\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\asd2\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\asd2\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.dll
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\asd2\Compiladores-master\Compiladores\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.pdb
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\asd2\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\asd2\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.Analizador.resources
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\asd2\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\asd2\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\asd2\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\asd2\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\asd2\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.dll
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\asd2\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.pdb
+C:\Users\Jonathan\Desktop\Compiladoress\siFunciona\asd2\Compiladores-master\Compiladores\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.exe
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.deps.json
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.dll
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.pdb
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.Analizador.resources
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.dll
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.pdb
+C:\Users\Jonathan\Desktop\Compiladores-master\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Escritorio\Compiladores-master\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.exe
+C:\Users\jonat\OneDrive\Escritorio\Compiladores-master\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.deps.json
+C:\Users\jonat\OneDrive\Escritorio\Compiladores-master\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.runtimeconfig.json
+C:\Users\jonat\OneDrive\Escritorio\Compiladores-master\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.runtimeconfig.dev.json
+C:\Users\jonat\OneDrive\Escritorio\Compiladores-master\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.dll
+C:\Users\jonat\OneDrive\Escritorio\Compiladores-master\Compiladores\bin\Debug\netcoreapp3.1\Compiladores.pdb
+C:\Users\jonat\OneDrive\Escritorio\Compiladores-master\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.Analizador.resources
+C:\Users\jonat\OneDrive\Escritorio\Compiladores-master\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.csproj.GenerateResource.cache
+C:\Users\jonat\OneDrive\Escritorio\Compiladores-master\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Escritorio\Compiladores-master\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Escritorio\Compiladores-master\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Escritorio\Compiladores-master\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Escritorio\Compiladores-master\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.dll
+C:\Users\jonat\OneDrive\Escritorio\Compiladores-master\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.pdb
+C:\Users\jonat\OneDrive\Escritorio\Compiladores-master\Compiladores\obj\Debug\netcoreapp3.1\Compiladores.genruntimeconfig.cache
